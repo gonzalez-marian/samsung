@@ -1,0 +1,35 @@
+.titulo {
+	color: #0707df;
+	text-shadow: #ffff00 0.1em 0.1em 0.1em;
+	text-align: center;
+}
+
+.legend {
+	background-color: #f83d3d;
+	color: #ffffff;
+}
+
+.fieldset,
+.inputColor,
+.button {
+	border: none;
+	border-radius: 3px;
+}
+
+.fieldset {
+	background-color: #00ffff;
+}
+
+.inputColor {
+	background-color: #ffff00;
+}
+
+.inputBtn:hover {
+	border: 2px solid #0707df;
+}
+
+.button {
+	background-color: pink;
+	width: 90px;
+	padding: 3px 0px;
+}
